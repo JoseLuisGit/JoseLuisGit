@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Luis Quispe
-- 👀 I’m interested in all
-- 🌱 I’m currently learning NodeJs and NextJs
+- 👀 I’m interested in web development
+- 🌱 I’m currently improving my skills in node
 - 💞️ I’m looking to collaborate on projects
 
 <!---
